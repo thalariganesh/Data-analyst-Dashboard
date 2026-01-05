@@ -19,7 +19,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
-https://github.com/thalariganesh/Data-analyst-Dashboard/blob/main/Screenshot%202026-01-05%20093149.png
+<img width="1846" height="587" alt="Screenshot 2026-01-05 093149" src="https://github.com/user-attachments/assets/debc38ad-09b9-4e7f-992a-a9ec2b5954be" />
+
 
 # Data-analyst-Dashboard
 I developed a comprahensive project in excel, creating multiple Dashboards and tables to analyze the data. This process involves several stages, including data processing , data cleaning and data visualization.
